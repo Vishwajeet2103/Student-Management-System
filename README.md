@@ -20,7 +20,7 @@
 
 11) Will be redirected to (http://localhost/phpmyadmin/)
 
-12) Create a database "dbms" excatly and import students.sql
+12) Create a database "dbms" exactly and import students.sql
 
 13) Refresh  http://127.0.0.1:5000
 
