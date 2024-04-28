@@ -1,4 +1,6 @@
 Download xampp 
+
+
 Download python 
 Check both in command prompt (eg python --version)
 Create a folder and open in vs code 
