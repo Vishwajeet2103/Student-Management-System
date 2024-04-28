@@ -1,5 +1,6 @@
 Flask
 Flask-Mail
+Flask-login
 Flask-SQLAlchemy
 future
 Jinja2
