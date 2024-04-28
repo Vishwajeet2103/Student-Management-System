@@ -1,13 +1,15 @@
-Download xampp 
+1) Download xampp 
 
-Download python 
+2) Download python 
 
-Check both in command prompt (eg python --version)
+3) Check both in command prompt (eg python --version)
 
-Create a folder and open in vs code 
+4) Create a folder and open in vs code 
 
-Now in that folder open terminal in vs code clone my respository in vs code (git clone)
+5) Now in that folder open terminal in vs code clone my respository in vs code (git clone)
 
-After cloning  download all modules (pip install -r requirements.txt)
+6) After cloning  download all modules (pip install -r requirements.txt)
 
-now run the main .py in run code
+7) now run the main.py in vs code
+
+
